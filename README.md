@@ -1,0 +1,1 @@
+# lightning-record-edit_view_form Expanding on the example given on René Winkelmeyer's blog: https://developer.salesforce.com/blogs/2018/01/spring-18-developers-build-secure-interactive-forms-faster.html
