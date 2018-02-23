@@ -1,0 +1,7 @@
+{
+    "orgName": "www.sfdcpaul.com",
+    "edition": "Developer",
+    "orgPreferences" : {
+        "enabled": ["S1DesktopEnabled"]
+    }
+}
